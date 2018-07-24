@@ -9,7 +9,8 @@
 用到的代码，不过没有关系，能看到自己一步一步分析的进阶也是很棒的赶脚！
   - 下面展示的是优达进阶课程的项目
     - [项目4-用Tableau讲故事-上海摩拜骑行情况探究](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project04_Mobai%20Data%20Analyse/%E9%A1%B9%E7%9B%AE04-%E7%94%A8Tableau%E8%AE%B2%E6%95%85%E4%BA%8B.md)
-    - [项目3-用R语言作分析-白葡萄酒的品质探究](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/tree/master/Project03_Whites%20wine%20Quality%20Analyse)用HTML浏览会更好，但是因为比较大，github不支持线上浏览，想看的童鞋建议下载查看
+    - [项目3-用R语言作分析-白葡萄酒的品质探究](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/tree/master/Project03_Whites%20wine%20Quality%20Analyse)
+    > 用HTML浏览会更好，但是因为比较大，github不支持线上浏览，想看的童鞋建议下载查看
     - [项目2-Python数据清理进阶-什么样的狗狗能成为网红汪？](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/wrangle_act_lxl.ipynb)、[对内报告_wrangle_report](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/wrangle_report.pdf)、[对外报告_art_report](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/art_report.pdf)
     - [项目1-Python统计知识-Stroop现象是否真的存在？](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project01_Statistical-Analysis_Stroop-effect/Statistical-Analysis_Stroop-effect_lxl.ipynb)
     
