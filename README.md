@@ -8,18 +8,18 @@
 >  下面将展示的是优达入门和进阶的项目探究， 可能会稍显稚嫩且跟目前的分析报告比较有出入，因为优达的项目更多是尝试练习分析所要
 用到的代码，不过没有关系，能看到自己一步一步分析的进阶也是很棒的赶脚！
   - 下面展示的是优达进阶课程的项目
-    - [项目4-用Tableau讲故事-上海摩拜骑行情况探究]()
-    - [项目3-用R语言作分析-白葡萄酒的品质探究]()
-    - [项目2-Python数据清理进阶-什么样的狗狗能成为网红汪？]()
-    - [项目1-Python统计知识-Stroop现象是否真的存在？]()
+    - [项目4-用Tableau讲故事-上海摩拜骑行情况探究](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project04_Mobai%20Data%20Analyse/%E9%A1%B9%E7%9B%AE04-%E7%94%A8Tableau%E8%AE%B2%E6%95%85%E4%BA%8B.md)
+    - [项目3-用R语言作分析-白葡萄酒的品质探究](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/tree/master/Project03_Whites%20wine%20Quality%20Analyse)用HTML浏览会更好，但是因为比较大，github不支持线上浏览，想看的童鞋建议下载查看
+    - [项目2-Python数据清理进阶-什么样的狗狗能成为网红汪？](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/wrangle_act_lxl.ipynb)、[对内报告_wrangle_report](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/wrangle_report.pdf)、[对外报告_art_report](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project02_wrangle_act/art_report.pdf)
+    - [项目1-Python统计知识-Stroop现象是否真的存在？](https://github.com/AAAlvin/Data-Analyst-Project-Adcanced-/blob/master/Project01_Statistical-Analysis_Stroop-effect/Statistical-Analysis_Stroop-effect_lxl.ipynb)
     
     
   - 下面展示的是优达入门课程的项目
-    - [项目4-用Python做A/B测试-这个页面我到底要不要改？]()
-    - [项目3-用Python做数据分析-拍出什么的电影比较受欢迎呢？]()
-        - [项目3练习-Python数据分析-红白葡萄酒探究]()
-    - [项目2-Python数据分析初探-美国共享单车使用探究]()
-    - [项目1-SQL与EXCEL-探索未来气候的发展趋势？]()
+    - [项目4-用Python做A/B测试-这个页面我到底要不要改？](https://github.com/AAAlvin/analyze-ab-test-results/blob/master/analyze-ab-test-results-lixulong.ipynb)
+    - [项目3-用Python做数据分析-拍出什么的电影比较受欢迎呢？](https://github.com/AAAlvin/Investigate-TMDb-Movies-Dataset/blob/master/Investigate_a_Dataset-lxl.ipynb)
+        - [项目3练习-Python数据分析-红白葡萄酒探究](https://github.com/AAAlvin/Wines_Quality_Exploration/blob/master/White_Wines_Quality_Exploration.ipynb)
+    - [项目2-Python数据分析初探-美国共享单车使用探究](https://github.com/AAAlvin/Bike_Share_Analysis/blob/master/Bike_Share_Analysis-lxl.ipynb)
+    - [项目1-SQL与EXCEL-探索未来气候的发展趋势？](https://github.com/AAAlvin/Global-Temperature)
 
 ## 分析之路
 > 这部分是我用来提升自己的分析思维的总结报告，所有被解读的文章都不是本人自己创作！
