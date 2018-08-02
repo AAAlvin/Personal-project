@@ -4,6 +4,8 @@
 ## 项目汇总
 - [Parch&Posey公司年度报表](https://github.com/AAAlvin/Project_Folder/blob/master/Parch%26Posey%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E8%A1%A8.md)
   > 一个利用SQL从数据库中提取数据，随后用Tableau输出的报表
+- [堡垒之夜吃鸡组合初步探究](https://github.com/AAAlvin/Fortnite_data_analyse/blob/master/Fortnite_data_analyse.ipynb)
+  > 堡垒之夜是一款非常火的大逃杀类游戏，我将自己的吃鸡数据进行简单的分析，探究什么的组合更容易吃鸡！
 - 下面展示的是我在优达数据分析进阶课程毕业后，自己搜集或下载数据集进行分析的项目
   - [SQL问题解决代码](https://github.com/AAAlvin/Outstanding-public-class-Notes/tree/master/file/SQL-Udacity-Notes)
 - 优达项目展示
