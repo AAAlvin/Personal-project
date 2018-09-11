@@ -2,6 +2,8 @@
 > 这是我在github上搭建的一个个人主页，用来展示一些自己的项目，想探究的问题，觉得有趣的文章，以及曾经做过的东西
 
 ## 项目汇总
+- [Tableau制作报表_超市2018年终报表]()
+  > 使用Tableau内置超市数据集制作年终报表，对业绩数据、订单数据、产品等数据进行报表制作。有Tableau的小伙伴可以私信索要twbx版本，这里显示的PDF没有交互性，网须知~
 - [堡垒萌新被劝退？不存在的！- 数据带你吃鸡](https://github.com/AAAlvin/Project_Folder/blob/master/%E5%A0%A1%E5%9E%92%E6%96%B0%E6%89%8B%E8%A2%AB%E5%8A%9D%E9%80%80%EF%BC%9F%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84.md)
   > 哈？玩堡垒之夜被大佬压头啦？又落地成盒啦？来看看A君堡垒的成长之路吧，硬核数据带你走出萌新世界，也许一个不注意就吃鸡了呢
 - [Parch&Posey公司年度报表](https://github.com/AAAlvin/Project_Folder/blob/master/Parch%26Posey%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E8%A1%A8.md)
