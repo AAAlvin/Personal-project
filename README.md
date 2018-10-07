@@ -5,8 +5,9 @@
 - **数据之道系列**
   > 该系列是采用Stack Overflow的2017，2018年调查数据，在此数据集基础上进行清洗整合之后进行的数据探索分析项目，结论都是围绕该数据集展开，欢迎一起讨论
   - [数据之道 - Stack的用户画像分析](https://github.com/AAAlvin/Project_Folder/blob/master/%E6%95%B0%E6%8D%AE%E4%B9%8B%E9%81%93%20-%20Stack%E7%9A%84%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E5%88%86%E6%9E%90.md)
-  - [数据之道 - 如何进阶成为一名数据科学家](https://github.com/AAAlvin/Project_Folder/blob/master/%E6%95%B0%E6%8D%AE%E4%B9%8B%E9%81%93%20-%20%E5%A6%82%E4%BD%95%E8%BF%9B%E9%98%B6%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6.md)
     > 该项目对Stack的用户生成用户画像，并对该画像的用途进行了相关探究~
+  - [数据之道 - 如何进阶成为一名数据科学家](https://github.com/AAAlvin/Project_Folder/blob/master/%E6%95%B0%E6%8D%AE%E4%B9%8B%E9%81%93%20-%20%E5%A6%82%E4%BD%95%E8%BF%9B%E9%98%B6%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6.md)
+    > 该项目对Stack的数据分析师和数据科学家的调查数据展开横向分析，用数据得出数据分析师应该具备什么技能以及成为数据科学家需要什么样的技能~
 - [Tableau制作报表_超市2018年终报表](http://pcb0gbia7.bkt.clouddn.com/%E8%B6%85%E5%B8%82-%E5%B9%B4%E7%BB%88%E6%8A%A5%E8%A1%A8-%E5%89%AA%E8%A3%81.pdf)
   > 使用Tableau内置超市数据集制作年终报表，对业绩数据、订单数据、产品等数据进行报表制作。有Tableau的小伙伴可以私信索要twbx版本，这里显示的PDF没有交互性，望须知~
 - [堡垒萌新被劝退？不存在的！- 数据带你吃鸡](https://github.com/AAAlvin/Project_Folder/blob/master/%E5%A0%A1%E5%9E%92%E6%96%B0%E6%89%8B%E8%A2%AB%E5%8A%9D%E9%80%80%EF%BC%9F%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84.md)
